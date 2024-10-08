@@ -1,0 +1,21 @@
+body {
+    background-color: #bce3f4; 
+
+}
+.profile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #dbf0f8;
+}
+
+.info {
+    max-width: 86%;
+    text-align: left;
+    margin-left: auto;
+}
+
+.info .description {
+    text-align: justify;
+}
